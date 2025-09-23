@@ -20,7 +20,7 @@ Multidisciplinary professional with experience since 2008 in **data analysis**, 
   - CVM License for Portfolio Management
   - Associate Data Analyst – Datacamp
   - Python – University of Michigan
-  - Blockchain Security – Ackee *(ongoing)*
+  - Blockchain Security – Ackee School of Solana Season 7
 
 ---
 
@@ -44,7 +44,7 @@ Multidisciplinary professional with experience since 2008 in **data analysis**, 
 ---
 
 ## 🛠 Technical Skills
-- **Languages:** Python, Rust (advanced), TypeScript, JavaScript, SQL, SWIFT.
+- **Languages:** Python, Rust (advanced), TypeScript, JavaScript.
 - **Frameworks & Tools:** React, Node.js, Web3.js, Git, Docker, APIs, Relational & NoSQL Databases  
 - **Blockchain:** Smart Contracts, Blockchain Security Analysis, DeFi  
 - **Data Science :** Pandas, Numpy, MongoDB.
