@@ -26,6 +26,17 @@ Multidisciplinary professional with experience since 2008 in **data analysis**, 
 
 ## 💼 Professional Experience
 
+### **Defunds Finance** – Co-Founder *(2025 – Present)*
+- Building **decentralized finance (DeFi)** protocols and investment products.
+- Designing smart contract architecture and Web3 integration.
+
+### **Sorcerer Trading** – Co-Founder *(2022 – Present)*
+- Building innovative **trading solutions** on the Solana blockchain.
+- Developing automated trading infrastructure.
+
+### **Superteam Brasil** – Member *(2025 – Present)*
+- Active member of the **Superteam Brasil** community, contributing to the Solana ecosystem.
+
 ### **Patrinvestments** – Founder / Portfolio Manager *(2024 – Present)*
 - Managing a professional **quantitative investment club** focused on global markets.
 - Developed and deployed **market anomaly detection models** in Python, Rust, and TypeScript.
