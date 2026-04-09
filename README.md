@@ -30,7 +30,7 @@ Multidisciplinary professional with experience since 2008 in **data analysis**, 
 - Building **decentralized finance (DeFi)** protocols and investment products.
 - Designing smart contract architecture and Web3 integration.
 
-### **Sorcerer Trading** – Co-Founder *(2022 – Present)*
+### **Sorcerer Trading** – Co-Founder *(2022 – Q12026)*
 - Building innovative **trading solutions** on the Solana blockchain.
 - Developing automated trading infrastructure.
 
